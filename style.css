@@ -192,6 +192,15 @@ ul.plain li:last-child { border-bottom: none; }
 
 .subgroup { margin-top: 10px; }
 
+.role-history {
+  list-style: none;
+  padding: 0;
+  margin: 2px 0 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
 /* Photo gallery */
 .gallery {
   display: grid;
